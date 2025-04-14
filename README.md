@@ -146,7 +146,3 @@ This project uses the following key libraries
 - [Headless UI](https://headlessui.com/)
 - [Vite JS](https://vitejs.dev/)
 - [Storybook JS](https://storybook.js.org/)
-
-## License
-
-[License details here]
