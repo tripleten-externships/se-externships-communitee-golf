@@ -20,7 +20,7 @@ A Chrome browser extension for CommuniteeGolf chat functionality.
 
 ### Prerequisites
 
-- Node.js (v18.16.0 or higher)
+- Node.js (v22.12.0 or higher)
 - npm (v9.5.1 or higher)
 - Chrome browser
 
